@@ -15,5 +15,8 @@ https://colab.research.google.com/github/fpschill/cas_main_dl_2023/blob/master/0
 
 https://colab.research.google.com/github/fpschill/cas_main_dl_2023/blob/master/03_theory_2.ipynb
 
+https://colab.research.google.com/github/fpschill/cas_main_dl_2023/blob/master/04_1_simpsons_datagen.ipynb
+
+
 
 
