@@ -1,5 +1,0 @@
-
-add to env:
-
-pip install wget
-

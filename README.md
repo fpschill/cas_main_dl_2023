@@ -16,15 +16,18 @@
 	sklearn < 1.0.0
 	numpy < 1.23
 
-    # create env
+    # 1. create env
     conda create -n cas_main_dl python=3.9
     conda activate cas_main_dl
 
-    # install packages
+    # 2. install packages
+	# a) Windows
 	conda install -c conda-forge cudatoolkit=11.2 cudnn=8.1.0 # GPU on windows
     pip install 'tensorflow==2.8.2' tensorflow-datasets notebook ipywidgets
     pip install matplotlib "scikit-learn<1.0.0" pandas tqdm "scikit-image<0.19" "numpy<1.23.0"  wget
-
+	# b) Linux
+	# TODO ...
+	
 
 
 ## Run directly in Colab
