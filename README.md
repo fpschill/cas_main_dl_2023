@@ -21,6 +21,7 @@
     conda activate cas_main_dl
 
     # install packages
+	conda install -c conda-forge cudatoolkit=11.2 cudnn=8.1.0 # GPU on windows
     pip install 'tensorflow==2.8.2' tensorflow-datasets notebook ipywidgets
     pip install matplotlib "scikit-learn<1.0.0" pandas tqdm "scikit-image<0.19" "numpy<1.23.0"  wget
 
