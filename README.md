@@ -41,6 +41,10 @@ https://colab.research.google.com/github/fpschill/cas_main_dl_2023/blob/master/0
 
 https://colab.research.google.com/github/fpschill/cas_main_dl_2023/blob/master/04_1_simpsons_datagen.ipynb
 
+https://colab.research.google.com/github/fpschill/cas_main_dl_2023/blob/master/04_2_simpsons_classification.ipynb
+
+https://colab.research.google.com/github/fpschill/cas_main_dl_2023/blob/master/04_3_simpsons_classification_cnn.ipynb
+
 
 
 
