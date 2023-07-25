@@ -5,7 +5,30 @@
 # Year: 2023
 
 
+# Local Setup
+
+    # Versions
+	Python 3.9
+	Tensorflow 2.8.2
+	CUDA 11.2
+	CUDNN 8.0
+	skimage < 0.19
+	sklearn < 1.0.0
+	numpy < 1.23
+
+    # create env
+    conda create -n cas_main_dl python=3.9
+    conda activate cas_main_dl
+
+    # install packages
+    pip install 'tensorflow==2.8.2' tensorflow-datasets notebook ipywidgets
+    pip install matplotlib "scikit-learn<1.0.0" pandas tqdm "scikit-image<0.19" "numpy<1.23.0"  wget
+
+
+
 ## Run directly in Colab
+
+(click on the links below to open the notebooks directly in Google Colab, NOT on the files within Github)
 
 https://colab.research.google.com/github/fpschill/cas_main_dl_2023/blob/master/00_test.ipynb
 
