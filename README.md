@@ -48,9 +48,6 @@ https://colab.research.google.com/github/fpschill/cas_main_dl_2023/blob/master/0
 
 https://colab.research.google.com/github/fpschill/cas_main_dl_2023/blob/master/04_3_simpsons_classification_cnn.ipynb
 
-### Not yet tested in local
-
-
 https://colab.research.google.com/github/fpschill/cas_main_dl_2023/blob/master/07_cifar10_uncertainty.ipynb
 
 https://colab.research.google.com/github/fpschill/cas_main_dl_2023/blob/master/08_Grad-CAM_activation_visualization.ipynb
