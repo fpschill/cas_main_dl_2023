@@ -23,7 +23,7 @@
     # 2. install tensorflow
 	# a) Windows
 	conda install -c conda-forge cudatoolkit=11.2 cudnn=8.1.0 # for GPU support on windows
-    pip install 'tensorflow==2.8.2' tensorflow-datasets 
+    pip install 'tensorflow==2.8.2' tensorflow-datasets 'tensorflow-addons==0.18.0'
 
 	# b) Linux
 	# TODO ...
@@ -60,7 +60,7 @@ https://colab.research.google.com/github/fpschill/cas_main_dl_2023/blob/master/0
 https://colab.research.google.com/github/fpschill/cas_main_dl_2023/blob/master/09_colorizing_images.ipynb
 
 
-
+https://colab.research.google.com/github/fpschill/cas_main_dl_2023/blob/master/vision_transformer.ipynb
 
 ### Solutions
 
